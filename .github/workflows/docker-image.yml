@@ -1,4 +1,4 @@
-name: docker hub push
+name: azure docker deployment
 
 on:
   push:
